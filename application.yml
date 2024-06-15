@@ -14,4 +14,4 @@ microservices:
       fetchByUserId:
         uri: http://USER-SERVICE/users
 test:
-  id: 5
+  id: 10
